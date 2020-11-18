@@ -1,3 +1,3 @@
 # pokemons
 HI 
-[qqqq](10(186).jpg)
+![qqqq](10(186).jpg)
